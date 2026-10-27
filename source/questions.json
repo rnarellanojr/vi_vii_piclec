@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "level": "recall",
+    "group": "VIA",
+    "question": "What does the name ‘chalcogens’ mean?",
+    "options": [
+      "Ore-forming",
+      "Salt-forming",
+      "Acid-forming",
+      "Color-forming"
+    ],
+    "answer": 0,
+    "explanation": "The Group VIA elements are called chalcogens, meaning ore-forming."
+  },
+  {
+    "id": 2,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which set contains the Group VIA elements listed in the notes?",
+    "options": [
+      "O, S, Se, Te",
+      "Cr, Mo, W, U",
+      "F, Cl, Br, I",
+      "Mn, Tc, Fe, Co"
+    ],
+    "answer": 0,
+    "explanation": "The notes list oxygen, sulfur, selenium, and tellurium under Group VIA."
+  },
+  {
+    "id": 3,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which historical name for oxygen is associated with C. W. Scheele?",
+    "options": [
+      "Fire air",
+      "Dephlogisticated air",
+      "Alkaline air",
+      "Mephitic air"
+    ],
+    "answer": 0,
+    "explanation": "Scheele called oxygen empyreal air or fire air."
+  },
+  {
+    "id": 4,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which historical name for oxygen is associated with J. Priestley?",
+    "options": [
+      "Dephlogisticated air",
+      "Fire air",
+      "Brimstone",
+      "Muriatic acid"
+    ],
+    "answer": 0,
+    "explanation": "Priestley used the name dephlogisticated air for oxygen."
+  },
+  {
+    "id": 5,
+    "level": "recall",
+    "group": "VIA",
+    "question": "What does the name ‘oxygen’ mean?",
+    "options": [
+      "Acid former",
+      "Salt former",
+      "Ore former",
+      "Burning stone"
+    ],
+    "answer": 0,
+    "explanation": "The notes give the meaning of oxygen as acid former."
+  },
+  {
+    "id": 6,
+    "level": "recall",
+    "group": "VIA",
+    "question": "What is the molecular formula of ordinary diatomic oxygen?",
+    "options": [
+      "O₂",
+      "O₃",
+      "H₂O",
+      "SO₂"
+    ],
+    "answer": 0,
+    "explanation": "Ordinary molecular oxygen is diatomic: O₂."
+  },
+  {
+    "id": 7,
+    "level": "recall",
+    "group": "VIA",
+    "question": "How is oxygen prepared commercially, according to the notes?",
+    "options": [
+      "Fractional distillation of liquid air",
+      "Electrolysis of water",
+      "Vulcanization of rubber",
+      "Bleaching with hypochlorite"
+    ],
+    "answer": 0,
+    "explanation": "The commercial preparation listed is fractional distillation of liquid air; electrolysis of water is the laboratory method listed."
+  },
+  {
+    "id": 8,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which element is most abundant in the human body by weight?",
+    "options": [
+      "Oxygen",
+      "Sulfur",
+      "Selenium",
+      "Tellurium"
+    ],
+    "answer": 0,
+    "explanation": "The notes identify oxygen as the most abundant element in the human body by weight."
+  },
+  {
+    "id": 9,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which oxygen allotrope is a bluish gas with an irritating odor?",
+    "options": [
+      "Ozone",
+      "Diatomic oxygen",
+      "Sulfur trioxide",
+      "Chlorine dioxide"
+    ],
+    "answer": 0,
+    "explanation": "Ozone, O₃, is the bluish, irritating-smelling allotrope of oxygen."
+  },
+  {
+    "id": 10,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which element is also called ‘brimstone’ or ‘burning stone’?",
+    "options": [
+      "Sulfur",
+      "Selenium",
+      "Chromium",
+      "Bromine"
+    ],
+    "answer": 0,
+    "explanation": "Brimstone and burning stone are names for sulfur."
+  },
+  {
+    "id": 11,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which description matches elemental sulfur?",
+    "options": [
+      "Pale yellow, odorless, brittle solid",
+      "Bluish gas with an irritating odor",
+      "Dark reddish-brown fuming liquid",
+      "Grayish-black solid with metallic luster"
+    ],
+    "answer": 0,
+    "explanation": "Sulfur is described as a pale yellow, odorless, brittle solid."
+  },
+  {
+    "id": 12,
+    "level": "recall",
+    "group": "VIA",
+    "question": "What is the other name for rhombic sulfur?",
+    "options": [
+      "Alpha sulfur",
+      "Beta sulfur",
+      "Plastic sulfur",
+      "Milk of sulfur"
+    ],
+    "answer": 0,
+    "explanation": "Rhombic sulfur is alpha sulfur; monoclinic sulfur is beta sulfur."
+  },
+  {
+    "id": 13,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which sulfur preparation is called ‘milk of sulfur’?",
+    "options": [
+      "Precipitated sulfur",
+      "Sublimed sulfur",
+      "Washed sulfur",
+      "Sulfurated lime solution"
+    ],
+    "answer": 0,
+    "explanation": "Precipitated sulfur is called lac sulfur or milk of sulfur."
+  },
+  {
+    "id": 14,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which preparation is called ‘flowers of sulfur’?",
+    "options": [
+      "Sublimed sulfur",
+      "Precipitated sulfur",
+      "Washed sulfur",
+      "Compound sulfur ointment"
+    ],
+    "answer": 0,
+    "explanation": "Sublimed sulfur is known as flowers of sulfur."
+  },
+  {
+    "id": 15,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which preparation is known as Vleminckx’ solution?",
+    "options": [
+      "Sulfurated lime solution",
+      "Strong iodine solution",
+      "Sodium hypochlorite solution",
+      "Phenolated iodine solution"
+    ],
+    "answer": 0,
+    "explanation": "Vleminckx’ solution is sulfurated lime solution, listed as a scabicide."
+  },
+  {
+    "id": 16,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which gas has the characteristic odor of rotten eggs?",
+    "options": [
+      "Hydrogen sulfide",
+      "Oxygen",
+      "Ozone",
+      "Chlorine"
+    ],
+    "answer": 0,
+    "explanation": "Hydrogen sulfide, H₂S, is the gas described as smelling like rotten eggs."
+  },
+  {
+    "id": 17,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which acid is known as ‘oil of vitriol’?",
+    "options": [
+      "Sulfuric acid",
+      "Sulfurous acid",
+      "Hydrochloric acid",
+      "Hydrofluoric acid"
+    ],
+    "answer": 0,
+    "explanation": "Oil of vitriol is sulfuric acid, H₂SO₄."
+  },
+  {
+    "id": 18,
+    "level": "recall",
+    "group": "VIA",
+    "question": "Which selenium compound is used in antifungal shampoos for dandruff?",
+    "options": [
+      "Selenium disulfide",
+      "Selenic acid",
+      "Sodium iodide",
+      "Potassium dichromate"
+    ],
+    "answer": 0,
+    "explanation": "Selenium disulfide, SeS₂, is the shampoo ingredient listed for dandruff."
+  },
+  {
+    "id": 19,
+    "level": "recall",
+    "group": "VIB",
+    "question": "What meaning is associated with the Greek root of ‘chromium’?",
+    "options": [
+      "Color",
+      "Moon",
+      "Earth",
+      "Artificial"
+    ],
+    "answer": 0,
+    "explanation": "The name chromium is associated with color, reflecting its highly colored compounds."
+  },
+  {
+    "id": 20,
+    "level": "recall",
+    "group": "VIB",
+    "question": "What color is chromic oxide in the notes?",
+    "options": [
+      "Green",
+      "Blue",
+      "Purplish red",
+      "Yellow"
+    ],
+    "answer": 0,
+    "explanation": "Chromic oxide is listed as green."
+  },
+  {
+    "id": 21,
+    "level": "recall",
+    "group": "VIB",
+    "question": "What color is chromic hydroxide in the notes?",
+    "options": [
+      "Blue",
+      "Green",
+      "Purplish red",
+      "Orange"
+    ],
+    "answer": 0,
+    "explanation": "Chromic hydroxide is listed as blue."
+  },
+  {
+    "id": 22,
+    "level": "recall",
+    "group": "VIB",
+    "question": "What color is chromic nitrate in the notes?",
+    "options": [
+      "Purplish red",
+      "Bluish-green",
+      "Blue",
+      "Green"
+    ],
+    "answer": 0,
+    "explanation": "Chromic nitrate is listed as purplish red."
+  },
+  {
+    "id": 23,
+    "level": "recall",
+    "group": "VIB",
+    "question": "Which compound is an indicator for titrimetric analysis of silver compounds?",
+    "options": [
+      "Potassium chromate",
+      "Ammonium molybdate",
+      "Phosphotungstic acid",
+      "Manganese dioxide"
+    ],
+    "answer": 0,
+    "explanation": "Potassium chromate is the indicator listed for titrimetric analysis of silver compounds."
+  },
+  {
+    "id": 24,
+    "level": "recall",
+    "group": "VIB",
+    "question": "Ammonium molybdate is used in the determination of which substances?",
+    "options": [
+      "Phosphates",
+      "Alkaloids",
+      "Phenols",
+      "Bromides"
+    ],
+    "answer": 0,
+    "explanation": "The molybdenum section lists ammonium molybdate for determining phosphates."
+  },
+  {
+    "id": 25,
+    "level": "recall",
+    "group": "VIB",
+    "question": "Which element is also called wolfram?",
+    "options": [
+      "Tungsten",
+      "Molybdenum",
+      "Chromium",
+      "Uranium"
+    ],
+    "answer": 0,
+    "explanation": "Wolfram is another name for tungsten, W."
+  },
+  {
+    "id": 26,
+    "level": "recall",
+    "group": "VIB",
+    "question": "Which reagent is used as a qualitative test for alkaloids?",
+    "options": [
+      "Phosphotungstic acid",
+      "Potassium chromate",
+      "Sodium chloride",
+      "Koppeschaar’s solution"
+    ],
+    "answer": 0,
+    "explanation": "Phosphotungstic acid is the qualitative test reagent listed for alkaloids."
+  },
+  {
+    "id": 27,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "What does the name ‘halogens’ mean?",
+    "options": [
+      "Salt-formers",
+      "Ore-formers",
+      "Acid-formers",
+      "Color-formers"
+    ],
+    "answer": 0,
+    "explanation": "Halogens means salt-formers."
+  },
+  {
+    "id": 28,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which element is described as the most electronegative?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "answer": 0,
+    "explanation": "The notes identify fluorine as the most reactive and most electronegative element."
+  },
+  {
+    "id": 29,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which acid attacks or etches glass to produce a frosted surface?",
+    "options": [
+      "Hydrofluoric acid",
+      "Hydrochloric acid",
+      "Sulfurous acid",
+      "Hydroiodic acid"
+    ],
+    "answer": 0,
+    "explanation": "Hydrofluoric acid attacks or etches glass."
+  },
+  {
+    "id": 30,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "What is Freon-12 primarily used as in the notes?",
+    "options": [
+      "Refrigerant",
+      "Electrolyte replenisher",
+      "Titration indicator",
+      "Expectorant"
+    ],
+    "answer": 0,
+    "explanation": "Freon-12 is listed as a chlorofluorocarbon refrigerant."
+  },
+  {
+    "id": 31,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Teflon is a polymer of which substance?",
+    "options": [
+      "Tetrafluoroethylene",
+      "Dichlorodifluoromethane",
+      "Sodium fluoride",
+      "Hydrogen fluoride"
+    ],
+    "answer": 0,
+    "explanation": "Teflon is the polymer of tetrafluoroethylene."
+  },
+  {
+    "id": 32,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which halogen is a greenish-yellow gas with a suffocating odor?",
+    "options": [
+      "Chlorine",
+      "Fluorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "answer": 0,
+    "explanation": "Chlorine is described as a greenish-yellow gas with a suffocating odor."
+  },
+  {
+    "id": 33,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "What sodium hypochlorite concentration is listed for modified Dakin’s solution?",
+    "options": [
+      "0.5%",
+      "5%",
+      "0.9%",
+      "2%"
+    ],
+    "answer": 0,
+    "explanation": "The notes list modified Dakin’s solution as 0.5% sodium hypochlorite."
+  },
+  {
+    "id": 34,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which substance is also known as chlorinated lime?",
+    "options": [
+      "Bleaching powder",
+      "Halazone",
+      "Ammonium chloride",
+      "Sodium chloride"
+    ],
+    "answer": 0,
+    "explanation": "Bleaching powder is called chlorinated lime or chloride of lime."
+  },
+  {
+    "id": 35,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "What is the use of halazone listed in the notes?",
+    "options": [
+      "Water disinfectant",
+      "Refrigerant",
+      "Expectorant",
+      "Titration indicator"
+    ],
+    "answer": 0,
+    "explanation": "Halazone is listed as a water disinfectant."
+  },
+  {
+    "id": 36,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which acid is commonly called ‘muriatic acid’?",
+    "options": [
+      "Hydrochloric acid",
+      "Hydrofluoric acid",
+      "Hydroiodic acid",
+      "Sulfuric acid"
+    ],
+    "answer": 0,
+    "explanation": "Muriatic acid is hydrochloric acid."
+  },
+  {
+    "id": 37,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "What is the sodium chloride concentration of normal saline solution?",
+    "options": [
+      "0.9%",
+      "0.5%",
+      "2%",
+      "5%"
+    ],
+    "answer": 0,
+    "explanation": "Normal saline solution, also called physiological salt solution, contains 0.9% NaCl."
+  },
+  {
+    "id": 38,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which compound is called ‘sal ammoniac’?",
+    "options": [
+      "Ammonium chloride",
+      "Sodium chloride",
+      "Sodium iodide",
+      "Calcium fluoride"
+    ],
+    "answer": 0,
+    "explanation": "Ammonium chloride is called muriate of ammonia or sal ammoniac."
+  },
+  {
+    "id": 39,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which halogen is a dark reddish-brown fuming liquid?",
+    "options": [
+      "Bromine",
+      "Chlorine",
+      "Fluorine",
+      "Iodine"
+    ],
+    "answer": 0,
+    "explanation": "Bromine is described as a dark reddish-brown fuming liquid."
+  },
+  {
+    "id": 40,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "What is Koppeschaar’s solution used to determine?",
+    "options": [
+      "Phenols",
+      "Phosphates",
+      "Alkaloids",
+      "Silver compounds"
+    ],
+    "answer": 0,
+    "explanation": "Koppeschaar’s solution is 0.1 N bromine solution used in the determination of phenols."
+  },
+  {
+    "id": 41,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which halogen is a grayish-black solid with metallic luster?",
+    "options": [
+      "Iodine",
+      "Bromine",
+      "Chlorine",
+      "Fluorine"
+    ],
+    "answer": 0,
+    "explanation": "The physical description given for iodine is a grayish-black solid with metallic luster."
+  },
+  {
+    "id": 42,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "What color does iodine give in nonpolar solvents such as carbon tetrachloride?",
+    "options": [
+      "Violet",
+      "Reddish brown",
+      "Greenish yellow",
+      "Blue"
+    ],
+    "answer": 0,
+    "explanation": "The notes describe iodine as violet in nonpolar solvents and reddish brown in polar solvents."
+  },
+  {
+    "id": 43,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "What is another name for strong iodine solution?",
+    "options": [
+      "Lugol’s solution",
+      "Boulton’s solution",
+      "Labarraque’s solution",
+      "Vleminckx’ solution"
+    ],
+    "answer": 0,
+    "explanation": "Strong iodine solution is Lugol’s solution; the notes list it as 5% iodine."
+  },
+  {
+    "id": 44,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which formulation contains 2% iodine in 50% alcohol with sodium iodide?",
+    "options": [
+      "Iodine tincture",
+      "Strong iodine solution",
+      "Iodized oil",
+      "Phenolated iodine solution"
+    ],
+    "answer": 0,
+    "explanation": "The listed formulation of iodine tincture is 2% iodine in 50% alcohol with NaI."
+  },
+  {
+    "id": 45,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which preparation is called Boulton’s solution?",
+    "options": [
+      "Phenolated iodine solution",
+      "Strong iodine solution",
+      "Iodine tincture",
+      "Iodized oil"
+    ],
+    "answer": 0,
+    "explanation": "Phenolated iodine solution is also called Boulton’s solution, French mixture, or carbolized iodine solution."
+  },
+  {
+    "id": 46,
+    "level": "recall",
+    "group": "VIIA",
+    "question": "Which iodine isotope is listed for thyroid diseases and cancer?",
+    "options": [
+      "Iodine-131",
+      "Iodine-127",
+      "Iodine-129",
+      "Iodine-125"
+    ],
+    "answer": 0,
+    "explanation": "The notes list radioactive iodine-131 for thyroid diseases and cancer."
+  },
+  {
+    "id": 47,
+    "level": "recall",
+    "group": "VIIB",
+    "question": "Manganese is chemically and geologically related to which element?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Fluorine",
+      "Tellurium"
+    ],
+    "answer": 0,
+    "explanation": "The manganese section describes it as chemically and geologically related to iron."
+  },
+  {
+    "id": 48,
+    "level": "recall",
+    "group": "VIIB",
+    "question": "Which manganese compound is an oxidizing agent, disinfectant, and deodorant?",
+    "options": [
+      "Potassium permanganate",
+      "Manganous carbonate",
+      "Manganous citrate",
+      "Manganese dioxide"
+    ],
+    "answer": 0,
+    "explanation": "Potassium permanganate is listed as an oxidizing agent, disinfectant, and deodorant."
+  },
+  {
+    "id": 49,
+    "level": "recall",
+    "group": "VIIB",
+    "question": "What does the Greek word ‘technetos’ mean?",
+    "options": [
+      "Artificial",
+      "Color",
+      "Moon",
+      "To flow"
+    ],
+    "answer": 0,
+    "explanation": "Technetium derives its name from technetos, meaning artificial."
+  },
+  {
+    "id": 50,
+    "level": "recall",
+    "group": "VIIB",
+    "question": "Which technetium isotope is used as a radioactive tracer for medical imaging?",
+    "options": [
+      "Technetium-99m",
+      "Technetium-97",
+      "Technetium-98",
+      "Technetium-96"
+    ],
+    "answer": 0,
+    "explanation": "Technetium-99m is the radioactive tracer identified for medical imaging."
+  },
+  {
+    "id": 51,
+    "level": "understanding",
+    "group": "VIA",
+    "question": "Why are O₂ and O₃ described as allotropes?",
+    "options": [
+      "They are different forms of the same element.",
+      "They contain different elements in the same ratio.",
+      "They are identical molecules with different names.",
+      "They are salts made from the same acid."
+    ],
+    "answer": 0,
+    "explanation": "O₂ and O₃ are different molecular forms of oxygen, so they are allotropes of the same element."
+  },
+  {
+    "id": 52,
+    "level": "understanding",
+    "group": "VIA",
+    "question": "Sulfur is described as brittle. Which behavior best matches this property?",
+    "options": [
+      "It breaks when struck rather than bending.",
+      "It readily stretches into a wire.",
+      "It readily flattens into a flexible sheet.",
+      "It gives off a strong odor when untouched."
+    ],
+    "answer": 0,
+    "explanation": "Brittleness means a material tends to fracture rather than bend or deform."
+  },
+  {
+    "id": 53,
+    "level": "understanding",
+    "group": "VIA",
+    "question": "Which statement best distinguishes the two sulfur allotropes named in the notes?",
+    "options": [
+      "Rhombic and monoclinic sulfur are crystalline forms of sulfur.",
+      "Rhombic and monoclinic sulfur are two sulfur-containing acids.",
+      "Rhombic sulfur is oxygen, while monoclinic sulfur is ozone.",
+      "Rhombic and monoclinic sulfur are different chemical elements."
+    ],
+    "answer": 0,
+    "explanation": "The notes place rhombic (alpha) and monoclinic (beta) sulfur under crystalline allotropes."
+  },
+  {
+    "id": 54,
+    "level": "understanding",
+    "group": "VIB",
+    "question": "Why should chromium trioxide be kept from intimate contact with organic substances?",
+    "options": [
+      "Serious explosions may result.",
+      "Its only effect is to turn the organics green.",
+      "It becomes an electrolyte replenisher.",
+      "It loses all chemical reactivity."
+    ],
+    "answer": 0,
+    "explanation": "The specific caution in the notes states that intimate contact between chromium trioxide and organic substances may cause serious explosions."
+  },
+  {
+    "id": 55,
+    "level": "understanding",
+    "group": "VIB",
+    "question": "Which pairing correctly distinguishes the analytical uses of molybdenum and tungsten compounds?",
+    "options": [
+      "Ammonium molybdate—phosphates; phosphotungstic acid—alkaloids",
+      "Ammonium molybdate—alkaloids; phosphotungstic acid—phosphates",
+      "Ammonium molybdate—phenols; phosphotungstic acid—silver compounds",
+      "Ammonium molybdate—silver compounds; phosphotungstic acid—phenols"
+    ],
+    "answer": 0,
+    "explanation": "The notes associate ammonium molybdate with phosphate determination and phosphotungstic acid with qualitative testing for alkaloids."
+  },
+  {
+    "id": 56,
+    "level": "understanding",
+    "group": "VIIA",
+    "question": "Why is a Teflon container more suitable than a glass container for hydrofluoric acid, based on the notes?",
+    "options": [
+      "Hydrofluoric acid attacks glass; Teflon is listed as a container material.",
+      "Glass converts hydrofluoric acid into normal saline.",
+      "Teflon changes hydrofluoric acid into a harmless gas.",
+      "Hydrofluoric acid dissolves Teflon more readily than glass."
+    ],
+    "answer": 0,
+    "explanation": "The notes link hydrofluoric acid with glass etching and identify Teflon as a material used for HF containers."
+  },
+  {
+    "id": 57,
+    "level": "understanding",
+    "group": "VIIA",
+    "question": "Why are sodium iodide or potassium iodide added to strong iodine solution?",
+    "options": [
+      "They enhance iodine solubility through triiodide formation.",
+      "They convert iodine completely into chlorine.",
+      "They remove all iodine from the preparation.",
+      "They make iodine insoluble in the liquid."
+    ],
+    "answer": 0,
+    "explanation": "Iodide helps dissolve iodine by forming the triiodide ion, I₃⁻."
+  },
+  {
+    "id": 58,
+    "level": "understanding",
+    "group": "VIIA",
+    "question": "A student claims iodine becomes a different element because it is violet in CS₂ but reddish brown in water. Which response best corrects this reasoning?",
+    "options": [
+      "A solvent can change iodine’s observed color without changing the element.",
+      "The color change proves iodine has become bromine.",
+      "Iodine must have the same color in every solvent.",
+      "The color change proves iodine has become chlorine."
+    ],
+    "answer": 0,
+    "explanation": "The notes describe different iodine colors in polar and nonpolar solvents. These are solvent-dependent appearances of iodine, not changes in elemental identity."
+  },
+  {
+    "id": 59,
+    "level": "understanding",
+    "group": "VIIA",
+    "question": "Which comparison of iodine solution and iodine tincture matches the notes?",
+    "options": [
+      "Both contain 2% iodine, but the tincture includes 50% alcohol and is more irritating.",
+      "Both contain 5% iodine, but the tincture contains vegetable oil.",
+      "The solution contains no iodine, while the tincture contains 5% iodine.",
+      "The tincture contains only sodium iodide and no elemental iodine."
+    ],
+    "answer": 0,
+    "explanation": "The notes list 2% iodine for both preparations; the tincture includes 50% alcohol and is described as more irritating."
+  },
+  {
+    "id": 60,
+    "level": "understanding",
+    "group": "VIIB",
+    "question": "Which statement best distinguishes technetium’s imaging use from a normal biological role?",
+    "options": [
+      "Technetium-99m can serve as a tracer even though technetium has no natural biological role.",
+      "Any element used in imaging must be an essential nutrient.",
+      "Technetium must normally be abundant in the body to be a tracer.",
+      "Technetium-99m is a nonradioactive electrolyte replenisher."
+    ],
+    "answer": 0,
+    "explanation": "The notes state both that technetium has no natural biological role and that technetium-99m is used as a radioactive imaging tracer."
+  }
+]
